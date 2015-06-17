@@ -8,10 +8,14 @@ body {
     color: #1caa98;
 }
 
+section {
+    padding: 40px 0;
+}
+
 .jumbotron {
     background: url(../img/site_showcase_bg.jpg) no-repeat top center;
     color: #fff;
-    height: 598px;
+    height: 592px;
     overflow: none;
 }
 
@@ -36,7 +40,7 @@ body {
     
 }
 
-.demo {
+img.demo {
     width: 100%;
     padding: 3px;
     border: 1px solid #ccc;
